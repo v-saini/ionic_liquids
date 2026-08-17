@@ -23,6 +23,8 @@
  - hyper_p_tuning.ipynb - Hyperparameter tuning for NN model and final model
 
  - nn_tuned.keras - Saved NN model with tuned parameters
+   
+ - imp.xlsx - List of important descriptors as identified using ET-based feature importance algorithm
 
 
 
