@@ -24,6 +24,8 @@
 
  - nn_tuned.keras - Saved NN model with tuned parameters
    
+ - nn_untuned.keras - Saved NN model with untuned parameters
+   
  - imp.xlsx - List of important descriptors as identified using ET-based feature importance algorithm
 
 
